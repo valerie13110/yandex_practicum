@@ -1,17 +1,15 @@
 # Анализ базы данных StackOverflow
 
+[ipynb](https://github.com/valerie13110/yandex_practicum/blob/main/StackOverflow/StackOverflow.ipynb)
+
 ## Описание проекта
 
 Требуется проанализировать базу данных StackOverflow для получения полезных инсайтов о платформе StackOverflow и ее пользовательской базе.
-
-
 
 ## Навыки и инструменты
 
 - **SQL**
 - **PostgreSQL**
-
-
 
 ## Вывод
 
